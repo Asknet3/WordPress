@@ -1,0 +1,45 @@
+/*
+ Theme Name:   GiuCri
+ Theme URI:    http://www.giuseppecristaudo.com
+ Description:  GiuCri Theme
+ Author:       Giuseppe Cristaudo
+ Author URI:   http://www.giuseppecristaudo.com
+ Template:     llorix-one-lite
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  giucri
+*/
+
+a:hover {
+	text-decoration: none;
+}
+
+.colored-line-center {
+	background: #f16c20;
+	margin: 0 auto;
+	height: 2px;
+    width: 85px;
+}
+
+.progetti {
+	margin: 25px 25px 0px 25px;
+	text-align: center;
+}
+
+.portfolio  {
+	background: rgba(255, 255, 255, 0.9);
+	border-bottom: 1px solid #dadfe3;
+    text-align: center;
+}
+
+.portfolio li {
+	display: inline-block;
+	margin: 25px 25px 25px 25px;
+	vertical-align: middle;
+}
+
+.portfolio a {
+	
+}
